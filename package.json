@@ -1,5 +1,5 @@
 {
-  "name": "rapidrest",
+  "name": "rapidrest-api",
   "version": "1.0.0",
   "description": "\"A boilerplate for setting up an Express server with MongoDB and basic CRUD APIs.\"",
   "main": "server.js",
