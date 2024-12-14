@@ -11,6 +11,18 @@ Before diving in, ensure you have the following installed:
 - **MongoDB Compass**: Download and install MongoDB Compass to manage your MongoDB database.
 
 ## Installation
+
+Install RapidREST locally using npm:
+
+```bash
+mkdir my-api
+cd my-api
+npm i rapidrest-api
+npx rapidrest init
+# Or, to initialize in a specific directory:
+rapidrest init <directory_name>
+```
+
 Install RapidREST globally using npm:
 
 ```bash
