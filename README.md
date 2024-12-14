@@ -20,7 +20,7 @@ cd my-api
 npm i rapidrest-api
 npx rapidrest init
 # Or, to initialize in a specific directory:
-rapidrest init <directory_name>
+npx rapidrest init <directory_name>
 ```
 
 Install RapidREST globally using npm:
